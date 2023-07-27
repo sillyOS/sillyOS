@@ -1,0 +1,6 @@
+memory/memory.c
+vga/vga.c
+cassert.c
+fpuinit.c
+kernel.c
+stdio.c

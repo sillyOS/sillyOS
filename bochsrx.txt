@@ -1,0 +1,9 @@
+# bochsrc.txt
+megs:            32
+floppy_bootsig_check: disabled=0
+floppya:         1_44=os.bin, status=inserted
+boot:            floppy
+log:             bochslog.txt
+clock:           sync=realtime, time0=local
+cpu:             count=1, ips=100000000
+com1:            enabled=1, mode=file, dev=com1.out

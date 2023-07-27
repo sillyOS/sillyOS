@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdint.h": "c",
+        "fpuinit.h": "c",
+        "stdio.h": "c",
+        "interrupts.h": "c",
+        "keyboard.h": "c"
+    }
+}
